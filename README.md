@@ -6,5 +6,5 @@
 
 # 리스트
 
-[이미지 분류기-2(CLASSIFIER)](https://github.com/stockmanager1/winter-vacation-study-pytorch-/blob/main/23%EB%85%84%201%EC%9B%94%2017%EC%9D%BC/%EB%B6%84%EB%A5%98%EA%B8%B0(CLASSIFIER)_%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0_4%ED%8A%B8.ipynb)
+[이미지 분류기-2d(CLASSIFIER)](https://github.com/stockmanager1/winter-vacation-study-pytorch-/blob/main/23%EB%85%84%201%EC%9B%94%2017%EC%9D%BC/%EB%B6%84%EB%A5%98%EA%B8%B0(CLASSIFIER)_%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0_4%ED%8A%B8.ipynb)
 
